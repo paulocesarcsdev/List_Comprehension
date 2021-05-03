@@ -10,5 +10,5 @@ for numero in numeros:
 '''
 
 
- numeros[0] = 20
- print(novos_numeros)
+numeros[0] = 20
+print(novos_numeros)
